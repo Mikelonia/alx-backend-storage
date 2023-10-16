@@ -1,0 +1,2 @@
+// Counts the documents in the school collection. bY Okpako Michael
+db.school.find().count();
